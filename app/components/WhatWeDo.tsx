@@ -37,7 +37,9 @@ const WhatWeDo = () => {
                 <div className='p-8'>
                     <h3 className=' font-black'>On Premise Cloud Setup</h3>
                     <p>
-                        Let's cloudify your data center infrastructure with our award winning solutions on OpenStack, Azure Stack or Oracle Cloud Infrastructure. 
+                        Let&apos;s cloudify your data center infrastructure with our
+                         award winning solutions on OpenStack, Azure Stack or Oracle Cloud 
+                         Infrastructure. 
                     </p>
                 </div>
 

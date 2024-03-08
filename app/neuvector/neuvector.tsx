@@ -114,7 +114,7 @@ const Neuvector = () => {
        </div>
        <div>
             <h2 className="text-2xl font-black">Forensic Analysis</h2>
-            NeuVector's forensic analysis feature provides detailed information about container events, including who accessed the container, what was accessed, and when. 
+            NeuVector&apos;s forensic analysis feature provides detailed information about container events, including who accessed the container, what was accessed, and when. 
             This information can be used to investigate security incidents and take corrective action.
        </div>
        <div>

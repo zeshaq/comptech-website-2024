@@ -9,7 +9,7 @@ const Neuvectorcrd = () => {
 
             <div>
 <h2 className="text-2xl font-bold">        
-CRD's can be used to support many use cases and workflows:</h2>
+CRDs can be used to support many use cases and workflows:</h2>
 <ul>
 <li>Define security policy during application development, to push into production.</li>
 <li>Learn behavior using NeuVector and export the CRD for review before pushing into production.</li>
@@ -21,7 +21,7 @@ CRD's can be used to support many use cases and workflows:</h2>
 
 
         <div>
-        CRD's bring many benefits, including:
+        CRD&apos;s bring many benefits, including:
 
 Define / declare the security policy, as code.
 Version and track the security policies the same as application deployment manifests.

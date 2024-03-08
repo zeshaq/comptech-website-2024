@@ -44,7 +44,7 @@ export default function RancherPage() {
      </p>
      <p className="text-2xl pt-12 text-left">
      Get more value out of Rancher and start optimizing infrastructure workflows, maintain
-     application reliability, and fortify your organization's cloud-native environments with Rancher Prime.
+     application reliability, and fortify your organization&apos;s cloud-native environments with Rancher Prime.
     </p>
   </div>
 

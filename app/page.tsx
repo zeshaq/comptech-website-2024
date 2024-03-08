@@ -1,6 +1,5 @@
 import Image from "next/image";
 import CarouselComp from "./components/CarouselComp";
-import PageComp from "./components/PageComp";
 import ThreeCards from "./components/ThreeCards";
 import OneCardRow from "./components/OneCardRow";
 import HeroOne from "./components/HeroOne";

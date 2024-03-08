@@ -35,7 +35,7 @@ Learn more how we can help you with your application restructuration and deploym
 
 </h1>
         <p >Applications with microservices architecture has improved fault 
-            tolerance. Because an app is "broken" into smaller
+            tolerance. Because an app is broken into smaller
              units, the system will stay unaffected, if any module is crushed.</p>
     </div>
     <div className="">
