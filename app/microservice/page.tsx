@@ -34,7 +34,8 @@ Learn more how we can help you with your application restructuration and deploym
         <h1 className="2xl font-bold ">Robust basement for large applications
 
 </h1>
-        <p >Applications with microservices architecture has improved fault tolerance. Because an app is "broken" into smaller
+        <p >Applications with microservices architecture has improved fault 
+            tolerance. Because an app is "broken" into smaller
              units, the system will stay unaffected, if any module is crushed.</p>
     </div>
     <div className="">

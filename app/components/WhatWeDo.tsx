@@ -29,7 +29,7 @@ const WhatWeDo = () => {
                 <div className='p-8'>
                     <h3 className=' font-black'>Public Cloud Adoption</h3>
                     <p>
-                    Begin your evolution to cloud-native today with the help of CompTechs's multi-cloud certified specialists.
+                    Begin your evolution to cloud-native today with the help of CompTech&apos;s multi-cloud certified specialists.
                     </p>
                 </div>
 

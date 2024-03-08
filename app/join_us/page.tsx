@@ -48,7 +48,7 @@ From our hiring decisions to our interactions with each other, our customers, an
         <div>
             <h2 className=" font-extrabold">TRUST</h2>
             <p>
-            Trust is the basis of our everyday work. We are organized with flexible time management – because sometimes life doesn’t know a 9 to 5. You can work remotely any 
+            Trust is the basis of our everyday work. We are organized with flexible time management – because sometimes life doesn&apos;t know a 9 to 5. You can work remotely any 
             time and anywhere with the equipment we offer you, which is free for personal use. 
             </p>
         </div>
@@ -57,7 +57,7 @@ From our hiring decisions to our interactions with each other, our customers, an
         <div>
             <h2 className=" font-extrabold">FREEDOM</h2>
             <p>
-            You may start with a certain task at our company, but at Zoi you always have the freedom to learn new things and manifest them in your daily work. We don't just 
+            You may start with a certain task at our company, but at Zoi you always have the freedom to learn new things and manifest them in your daily work. We don&apos;t just 
             develop code – we give space for development to the people who work with us.
             </p>
         </div>
@@ -66,7 +66,7 @@ From our hiring decisions to our interactions with each other, our customers, an
         <div>
             <h2 className=" font-extrabold">ENRICHMENT</h2>
             <p>
-            With us, you don't occupy the still-warm chair of your predecessor and aren’t immediately thrown into the to-do jungle. Take your time! You are here to enrich our team. And to establish 
+            With us, you don&apos;t occupy the still-warm chair of your predecessor and aren&apos;t immediately thrown into the to-do jungle. Take your time! You are here to enrich our team. And to establish 
             yourself in your time. Your leads and colleagues are always only one click away. 
               </p>
         </div>
@@ -75,7 +75,7 @@ From our hiring decisions to our interactions with each other, our customers, an
         <div>
             <h2 className=" font-extrabold">DIVERSITY</h2>
             <p>
-            If you want to work cross-culturally, we are your place to be. With 30 % women in tech, over 30 nationalities, and locations in 6  countries, you'll enjoy the best of people
+            If you want to work cross-culturally, we are your place to be. With 30 % women in tech, over 30 nationalities, and locations in 6  countries, you&apos;ll enjoy the best of people
              from everywhere. From Germany to Portugal, Spain, Vietnam, Mexico, and Romania.
               </p>
         </div>
@@ -84,7 +84,7 @@ From our hiring decisions to our interactions with each other, our customers, an
         <div>
             <h2 className=" font-extrabold">PASSION</h2>
             <p>
-            Love what you do? Love your own talent and bring in what you can give. We're united by our passion for new technology, finding innovative solutions, and yes, also for being 
+            Love what you do? Love your own talent and bring in what you can give. We are united by our passion for new technology, finding innovative solutions, and yes, also for being 
             nerdy. We create an ecosystem where we shine together and learn from each other.
      
               </p>
@@ -94,7 +94,7 @@ From our hiring decisions to our interactions with each other, our customers, an
         <div>
             <h2 className=" font-extrabold">LEARNING</h2>
             <p>
-            No industry is transforming as fast as the digital one. That's why it's essential for us to stay up to date with the most professional level of certification. Benefit from various 
+            No industry is transforming as fast as the digital one. That&apos;s why it&apos;s essential for us to stay up to date with the most professional level of certification. Benefit from various 
             trainings, certification opportunities, and the exchange in our themed communities. 
               </p>
         </div>

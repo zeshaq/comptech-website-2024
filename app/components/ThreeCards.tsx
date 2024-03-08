@@ -30,7 +30,7 @@ const ThreeCards = () => {
               Studio by Preline
             </h3>
             <p className="mt-3 text-gray-800 dark:text-gray-200">
-              Produce professional, reliable streams easily leveraging Preline's innovative broadcast studio
+              Produce professional, reliable streams easily leveraging Prelin innovative broadcast studio
             </p>
             <p className="mt-5 inline-flex items-center gap-x-1 text-blue-600 decoration-2 group-hover:underline font-medium">
               Read more
