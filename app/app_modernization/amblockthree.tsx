@@ -1,18 +1,16 @@
-import React from 'react'
+import React from "react"
 
 const Amblockthree = () => {
   return (
     <div>
-<div className='mt-12  ' 
-
->
+<div className="mt-12" >
   <h1 className=" text-8xl font-black bg-cover pb-20 pt-20 px-40  text-slate-50  "
-   style={{backgroundImage: 'url("/images/bg/bg5.avif")'}}  
+   style={{backgroundImage: "url(/images/bg/bg5.avif)"}}  
   >
   Our Scope of Expertise as an Application Modernization Company
   </h1>
 
-  <p className=' text-center font-semibold text-2xl pb-20 px-12 pt-20'>
+  <p className="text-center font-semibold text-2xl pb-20 px-12 pt-20">
 As a leading application modernization company, we understand how critical your application is; it's high time to code new life into it. Our app modernization services will help you address the bottlenecks of your outdated products and get the most out of your IT investment. The end results are enhanced security, improved speed and performance, and a better all-around app experience.
 </p>
 
@@ -21,7 +19,7 @@ As a leading application modernization company, we understand how critical your 
 
 
 
-<div className='grid grid-cols-3 p-12 gap-16'>
+<div className="grid grid-cols-3 p-12 gap-16">
 
     <div className="feature_block">
 
