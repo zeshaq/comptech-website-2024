@@ -1,0 +1,26 @@
+import { BeakerIcon } from '@heroicons/react/24/solid'
+import { Camera } from 'lucide-react';
+
+
+   <div className="hs-carousel-slide bg-cover" 
+   style={{backgroundImage: 'url("/images/bg3.png")'}}   >
+
+
+<BeakerIcon className="h-6 w-6 text-blue-500" />
+
+
+<Camera color="red" size={48} />
+
+
+<div className='relative min-h-screen '>
+   a
+ <Image
+               src="/images/suse/secaas.png"
+               alt="aws-sap"
+       
+               fill={true} 
+               
+               >
+            
+ </Image>
+       </div>
