@@ -11,7 +11,7 @@ const Amblockthree = () => {
   </h1>
 
   <p className="text-center font-semibold text-2xl pb-20 px-12 pt-20">
-As a leading application modernization company, we understand how critical your application is; it's high time to code new life into it. Our app modernization services will help you address the bottlenecks of your outdated products and get the most out of your IT investment. The end results are enhanced security, improved speed and performance, and a better all-around app experience.
+As a leading application modernization company, we understand how critical your application is; it&apos;s high time to code new life into it. Our app modernization services will help you address the bottlenecks of your outdated products and get the most out of your IT investment. The end results are enhanced security, improved speed and performance, and a better all-around app experience.
 </p>
 
 
