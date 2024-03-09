@@ -72,7 +72,7 @@ const ContactForm = () => {
                 </div>
 
                 <div className='basis-2/4'>
-                <label for="input-label" className="block text-sm font-medium mb-2 dark:text-white">Phone</label>
+                <label htmlFor="input-label" className="block text-sm font-medium mb-2 dark:text-white">Phone</label>
                 <input type="phone" id="input-label" className="py-3 px-4 block w-full border-b-2 border-b-black text-sm focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400 dark:focus:ring-gray-600"   />
                 </div>
 
