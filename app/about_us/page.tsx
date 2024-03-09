@@ -11,8 +11,7 @@ export default function Kubernetes() {
 <div className="grid grid-cols-3 gap-5 p-12 m-12 ">
 
 <div className="p-6">
-10
-Years of experience in IT
+<h1 className=" texr-2xl ">70%</h1> repeat clients
 </div>
 
 <div className="p-6">20+
