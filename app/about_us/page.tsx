@@ -35,9 +35,12 @@ export default function Kubernetes() {
 Who We Are 
             </h1>
             <p className=" text-left font-extralight text-2xl pb-12 ">
-            CompTech is one of the oldest and leading technology solution providers in Bangladesh. Since establishment in 1989, CompTech has been providing complete range of IT solutions,. including IT Security, Business Application Deployment, Data Center Design and Commissioing.
+            CompTech is one of the oldest and leading technology solution providers in Bangladesh.
+             Since establishment in 1989, CompTech has been providing complete range of IT solutions, 
+             including IT Security, Business Application Deployment, Data Center Design and Commissioing.
 
-In 2022 CompTech was acquired by RenComGroup USA, a global conglomerate whose business interests spans across public media, cloud technology to industrial manufacturing.
+In 2022 CompTech was acquired by Pinaki Group, a global conglomerate whose business interests spans across public media,
+ cloud technology to industrial manufacturing.
 
 Adding to the existing portfolio of CompTech, new divisions have been added which includes cloud technology, cloud native cybersecurity and data center automation.     </p>
         </div>
@@ -51,7 +54,7 @@ Adding to the existing portfolio of CompTech, new divisions have been added whic
 
             <div className="basis-7/12  text-justify font-extralight text-2xl">
             Be the independent go-to cloud partner for customers, 
-            skilled employees and hyperscalers across wider Europe.
+            skilled employees and hyperscalers.
             </div>
  </div>
 
@@ -102,7 +105,8 @@ Adding to the existing portfolio of CompTech, new divisions have been added whic
         <h1 className="text-2xl font-black">Be Collaborative
 </h1>
         <p className="text-2xl  font-extralight">
-        Contribute to teamwork without borders. Share information and knowledge. Listen to other perspectives and help each other achieve results.
+        Contribute to teamwork without borders. Share information and knowledge.
+         Listen to other perspectives and help each other achieve results.
         </p>
     </div>
 
