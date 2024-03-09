@@ -6,13 +6,15 @@ const HomeBannerCN = () => {
     <div className="flex flex-row">
 
         <div className="basis-4/12  bg-sky-950 text-slate-100">
-            <p className="font-extrabold text-7xl text-center p-24">
+            <p className="font-extrabold text-5xl text-center mx-12">
               
-              WORK WITH CLOUD NATIVES</p>
-
-              <p className='text-2xl font-extralight'>
+              WORK WITH CLOUD NATIVES
+              
+              </p>
+              <p className=' font-extralight p-12 text-center mx-12'>
               We empower enterprise clients not only to migrate into the cloud but to use it in a value-generating way.
               </p>
+ 
         </div>
         <div className="basis-8/12 relative">
             
@@ -23,7 +25,7 @@ const HomeBannerCN = () => {
              src="/images/bn1.jpeg"
              alt="cloud native banner"
              fill={true }
-             className="size-fit"
+       
 
 
              
