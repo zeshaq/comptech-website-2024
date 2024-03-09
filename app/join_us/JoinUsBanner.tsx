@@ -20,10 +20,9 @@ const JoinUsBanner = () => {
         <p className="text-lg text-gray-50 dark:text-gray-400">
           
 
-        HashiCorp sdfsdfds is driven by our people and our principles, 
-        which have been the foundation of everything we do since 
-        the company was founded in 2012. Join us on our journey as we
-         work to support sdfs as they transition to cloud infrastructure through simple yet powerful workflows and automation.
+          Since our establishment in 1989, it is our people and values that lay the foundation of everything we do. 
+          Join us on our journey as we help the transition to cloud 
+          infrastructure through simple yet powerful workflows and automation.
           </p>
       </div>
   

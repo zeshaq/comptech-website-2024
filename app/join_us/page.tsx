@@ -13,14 +13,14 @@ export default function JoinUs() {
 
         <div className="">
             <h1 className="text-4xl font-black text-left ">
-            Build Your Career at HashiCorp
+            Build Your Career at CompTech
 
 
             </h1>
             <p className=" text-left">
             We are a growing team of people who are deeply passionate
              about the work we do and the difference we make for our
-              customers and community. We build the infrastructure that enables innovation for businesses around the world. Our suite of multi-cloud infrastructure automation products are the underpinnings of the largest enterprises, who rely on our solutions to deliver essential services, communications tools, and entertainment platforms to the world. Our core tenants of engagement, inclusion, and diversity complement the broader HashiCorp principles: integrity, kindness, humility, pragmatism, 
+              customers and community. We build the infrastructure that enables innovation for businesses around the world. Our suite of multi-cloud infrastructure automation products are the underpinnings of the largest enterprises, who rely on our solutions to deliver essential services, communications tools, and entertainment platforms to the world. Our core tenants of engagement, inclusion, and diversity complement the broader CompTech principles: integrity, kindness, humility, pragmatism, 
             communication, vision, execution, beauty works better, and reflection. </p>
         </div>
 
@@ -33,7 +33,7 @@ From our hiring decisions to our interactions with each other, our customers, an
         <div className="mt-24">
        <h1 className="text-2xl font-extrabold">We are creating opportunities</h1> 
 
-       As a multidimensional company addressing an extensive market, HashiCorp is experiencing hypergrowth, rapidly welcoming new customers, and continuing to expand our portfolio of tools. Our products are downloaded more than 100 million times a year, and we’ve expanded from 500 employees in June 2019 to more than 2,000 today — and we’re just getting started. That kind of scale opens up hard-to-find career-growth potential for our people to learn new skills, expand their roles, conquer new challenges, and solve new problems. To make that happen, we are increasingly investing in talent development, manager enablement,
+       As a multidimensional company addressing an extensive market, CompTech is experiencing hypergrowth, rapidly welcoming new customers, and continuing to expand our portfolio of tools. Our products are downloaded more than 100 million times a year, and we’ve expanded from 500 employees in June 2019 to more than 2,000 today — and we’re just getting started. That kind of scale opens up hard-to-find career-growth potential for our people to learn new skills, expand their roles, conquer new challenges, and solve new problems. To make that happen, we are increasingly investing in talent development, manager enablement,
         knowledge sharing, and other efforts to help our employees advance their careers.
 
 </div>
