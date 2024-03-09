@@ -10,7 +10,7 @@ const KubBanner = () => {
   
      
       <div className="mt-5 max-w-2xl text-center mx-auto">
-        <h1 className="block font-bold text-white text-4xl md:text-5xl lg:text-6xl dark:text-gray-200">
+        <h1 className="block font-black text-white text-8xl ">
         Kubernetes Implementation & Operation
       
         </h1>
@@ -18,7 +18,7 @@ const KubBanner = () => {
     
   
       <div className="mt-5 max-w-3xl text-center mx-auto">
-        <p className="text-lg text-gray-50 dark:text-gray-400">
+        <p className="text-3xl font-black text-slate-50">
           
         Modernize your IT systems with flexible, reliable and independent microservices applications.
 

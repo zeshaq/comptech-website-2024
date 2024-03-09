@@ -62,7 +62,7 @@ Our pedigree as a provider is always based on infrastructures designed to have z
 
 
 </h1>
-        <p >360 Cloud Platform CNCF-certified experts help you simplify the complex landscape of CNCF and navigate between open-source and 
+        <p >Our CNCF-certified experts help you simplify the complex landscape of CNCF and navigate between open-source and 
             proprietary software choices to find the best solution based on your goals.</p>
     </div>
 
@@ -81,7 +81,7 @@ Our pedigree as a provider is always based on infrastructures designed to have z
 
         <p >
             
-        Our team at 360 Cloud Platforms can help you select, implement and configure a service mesh solution like Istio, Linkerd, or Consul. We help you efficiently utilize service meshes to manage traffic,
+        We can help you select, implement and configure a service mesh solution like Istio, Linkerd, or Consul. We help you efficiently utilize service meshes to manage traffic,
          implement robust security policies, and facilitate observability.
             
             </p>

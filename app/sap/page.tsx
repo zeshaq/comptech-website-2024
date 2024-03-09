@@ -2,6 +2,7 @@ import ContactForm from "../components/contact_form";
 import SapBanner from "./SapBanner";
 import WhyAws from "./WhyAws";
 import WhySapUS from "./WhySapUS";
+import BookSap from "./book_sap";
 import Migrate from "./migrate";
 
  
@@ -16,7 +17,8 @@ export default function Sap() {
 <WhySapUS></WhySapUS>
 <WhyAws></WhyAws>
 <Migrate></Migrate>
-<ContactForm></ContactForm>
+<BookSap></BookSap>
+
 </div>
 
  

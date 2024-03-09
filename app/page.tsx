@@ -12,6 +12,7 @@ import HBJoin from "./components/HBJoin";
 import WhatWeDo from "./components/WhatWeDo";
 import Clients from "./components/clients";
 import Oems from "./components/oems";
+import Industries from "./components/industries";
 import ContactForm from "./components/contact_form";
 
 export default function Home() {
@@ -27,10 +28,10 @@ export default function Home() {
 
 <OurStats></OurStats>
 <HomeBannerCN></HomeBannerCN>
- 
-<Oems></Oems>
 <WhatWeDo></WhatWeDo>
+<Oems></Oems>
 
+<Industries></Industries>
 <Clients></Clients>
  
 

@@ -5,10 +5,14 @@ const HomeBannerCN = () => {
   return (
     <div className="flex flex-row">
 
-        <div className="basis-4/12">
-            <p className="font-extrabold text-7xl text-center p-24 bg-sky-950 text-slate-100">
+        <div className="basis-4/12  bg-sky-950 text-slate-100">
+            <p className="font-extrabold text-7xl text-center p-24">
               
               WORK WITH CLOUD NATIVES</p>
+
+              <p className='text-2xl font-extralight'>
+              We empower enterprise clients not only to migrate into the cloud but to use it in a value-generating way.
+              </p>
         </div>
         <div className="basis-8/12 relative">
             

@@ -2,13 +2,13 @@ import React from 'react'
 
 const WhatWeDo = () => {
   return (
-    <div className='flex flex-row'>
+    <div className='flex flex-row p-12 gap-12'>
 
         <div className='basis-4/12'>
-<h2 className='text-4xl font-bold p-24'>            What we can do for you. </h2>
+<h2 className='text-8xl font-black'>            What we can do for you. </h2>
         </div>
 
-        <div className='basis-8/12 p-12'>
+        <div className='basis-8/12 '>
             <div className='grid grid-cols-2  '>
                 <div className='p-8'>
                     <h3 className=' font-black'>Interim Engineering</h3>

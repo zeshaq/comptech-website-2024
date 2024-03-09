@@ -54,7 +54,7 @@ Don’t just upgrade. Take charge of a future where your enterprise thrives with
   <div className="basis-8/12 p-12  bold">
     <h1 className="text-6xl font-black">Reinvent Your IT</h1>
 <p className="pt-12 text-2xl">
-Application Modernization Services consist of revamping or migrating applications to newer platforms to improve functionality, enhance user experience, and enable scalability. Our expert team at Radixweb aims to offer zero-disruption modernization solutions to enterprises of all shapes and sizes. We follow a strategic approach that will help you benefit from the technological transformation at minimal-risk scenarios.
+Application Modernization Services consist of revamping or migrating applications to newer platforms to improve functionality, enhance user experience, and enable scalability. Our expert team aims to offer zero-disruption modernization solutions to enterprises of all shapes and sizes. We follow a strategic approach that will help you benefit from the technological transformation at minimal-risk scenarios.
  
   </p>
 
