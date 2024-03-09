@@ -8,10 +8,9 @@ const AboutBanner = () => {
     
   
      
-      <div className="mt-5 max-w-2xl text-center mx-auto">
+      <div className="mt-5 max-w-2xl text-left ">
         <h1 className="block font-black text-black text-4xl md:text-5xl lg:text-6xl dark:text-gray-200">
-        Increase your agility with Canonical OpenStack Platform Specialists
-      
+About Us      
         </h1>
       </div>
     
@@ -19,9 +18,7 @@ const AboutBanner = () => {
       <div className="mt-5 max-w-3xl text-center mx-auto">
         <p className="text-lg text-gray-50 dark:text-gray-400">
           
-
-Today’s technology platforms are increasingly powerful
- but understanding them fully and getting the most out of them is a complex challenge.
+ 
           </p>
       </div>
   

@@ -7,7 +7,7 @@ const ContactForm = () => {
   return (
    
 
- <div className=''>
+ <div className='p-20'>
 
     <div className='flex flex-row mt-36 gap-32'>
         <div className='basis-5/12'>

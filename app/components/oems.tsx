@@ -7,11 +7,12 @@ const Oems = () => {
 
 <div className="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
  
-  <div className="sm:w-1/2 xl:w-1/3 mx-auto text-center mb-6">
-    <h2 className="text-xl font-semibold md:text-2xl md:leading-tight text-gray-800 dark:text-gray-200">
+ 
+    <h2 className="text-6xl text-center font-black ">
         
-        Trusted by the Leading Banking and Financial Institutions, Defense and Enterprises in Bangladesh</h2>
-  </div>
+Technical Affiliations         
+        </h2>
+ 
 
  
 <div className='grid grid-cols-6 p-12 gap-20'>

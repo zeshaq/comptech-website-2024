@@ -343,37 +343,7 @@ const Clients = () => {
 </div>
 
 
-  <div className="grid grid-cols-12 sm:flex sm:justify-center gap-6 sm:gap-x-12 lg:gap-x-20">
-    <div className="col-span-6 text-center">
-      <h4 className="text-xl md:text-3xl font-semibold text-gray-800 dark:text-gray-200">
-        250+
-      </h4>
-      <h4 className="text-sm text-gray-600 dark:text-gray-400">
-        Components
-      </h4>
-    </div>
  
-
-    <div className="col-span-6 text-center">
-      <h4 className="text-xl md:text-3xl font-semibold text-gray-800 dark:text-gray-200">
-        160+
-      </h4>
-      <h4 className="text-sm text-gray-600 dark:text-gray-400">
-        Starter Pages & Examples
-      </h4>
-    </div>
-
-
-    <div className="col-start-4 col-span-6 text-center">
-      <h4 className="text-xl md:text-3xl font-semibold text-gray-800 dark:text-gray-200">
-        10+
-      </h4>
-      <h4 className="text-sm text-gray-600 dark:text-gray-400">
-        Tailwind CSS Plugins
-      </h4>
-    </div>
-
-  </div>
 
 </div>
 

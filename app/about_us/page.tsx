@@ -10,15 +10,21 @@ export default function Kubernetes() {
 
 <div className="grid grid-cols-3 gap-5 p-12 m-12 ">
 
-<div className="p-6">
-<h1 className=" texr-2xl ">70%</h1> repeat clients
+<div className="p-6 text-center">
+<h1 className=" text-6xl font-black ">70%</h1> 
+
+<h1 className="my-4 text-4xl font-extralight">Repeat clients</h1>
 </div>
 
-<div className="p-6">20+
-Migrations from monolithic infrastructure to modern microservices applications</div>
-<div className="p-6">
-10+
-Industries served
+<div className="p-6  text-center">
+    
+<h1 className=" text-6xl font-black ">30+</h1> 
+<h1 className="my-4 text-4xl font-extralight">Years of Business Legacy</h1>
+
+</div>
+<div className="p-6  text-center">
+<h1 className=" text-6xl font-black ">10+</h1> 
+<h1 className="my-4 text-4xl font-extralight">Industries Served</h1>
 </div>
 
 </div>
