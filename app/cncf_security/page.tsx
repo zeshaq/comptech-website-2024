@@ -17,7 +17,9 @@ const CNCFSecurity = () => {
 
 <h1 className='font-black text-4xl py-20 px-12 '>
 
-your dedicated partner in safeguarding the digital future of your business. As a leading Cloud Security provider, we specialize in delivering robust, end-to-end solutions to protect your assets in the ever-evolving landscape of cloud computing.
+
+As a leading Cloud Security provider, we specialize in delivering robust, end-to-end solutions to protect your 
+assets in the ever-evolving landscape of cloud computing.
 </h1>
 
 <Blockone></Blockone>

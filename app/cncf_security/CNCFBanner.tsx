@@ -8,8 +8,8 @@ const CNCFBanner = () => {
     
   
      
-      <div className="mt-5 max-w-2xl text-center mx-auto">
-        <h1 className="block font-black text-white text-8xl  ">
+      <div className="mt-5 max-w-2xl text-left ">
+        <h1 className="block font-black text-white text-7xl  ">
         
         CLOUD NATIVE SECURITY 
 
@@ -18,10 +18,10 @@ const CNCFBanner = () => {
       </div>
     
   
-      <div className="mt-5 max-w-3xl text-center mx-auto">
-        <p className="text-lg text-gray-50 dark:text-gray-400">
+      <div className="mt-5 max-w-3xl text-left">
+        <p className="text-3xl text-gray-50 dark:text-gray-400">
           
-        Reengineer your app with cutting-edge technologies to embrace agility, innovation, and resilience.
+        Your dedicated partner in safeguarding the digital future of your business. 
 
 
 
