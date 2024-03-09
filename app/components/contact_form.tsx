@@ -85,7 +85,7 @@ const ContactForm = () => {
             <div className='basis-full'>
 
             <label htmlFor="textarea-comm" className="block text-sm font-medium mb-2 dark:text-white">Comment</label>
-            <textarea id="textarea-comm" className="py-3 px-4 border-b-2 border-b-black block w-full border-gray-200  text-sm focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400 dark:focus:ring-gray-600" rows="3"  ></textarea>
+            <textarea id="textarea-comm" className="py-3 px-4 border-b-2 border-b-black block w-full border-gray-200  text-sm focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400 dark:focus:ring-gray-600"   ></textarea>
 
             <button type="button" className="mt-8 py-3 px-4 inline-flex items-center gap-x-2 text-sm font-medium rounded-full border border-gray-200 bg-white text-gray-800 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none dark:bg-slate-900 dark:border-gray-700 dark:text-white dark:hover:bg-gray-800 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
                   <a href="/form_submitted">Submit</a>  
