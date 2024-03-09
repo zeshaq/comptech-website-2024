@@ -17,14 +17,7 @@ const ContactBanner = () => {
       </div>
     
   
-      <div className="mt-5 max-w-3xl text-center mx-auto">
-        <p className="text-lg text-gray-50 dark:text-gray-400">
-          
-        Modernize your IT systems with flexible, reliable and independent microservices applications.
-
-
-          </p>
-      </div>
+ 
   
      
  

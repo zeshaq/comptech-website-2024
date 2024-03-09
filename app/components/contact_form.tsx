@@ -13,9 +13,9 @@ const ContactForm = () => {
         <div className='basis-5/12'>
            <h1 className='text-6xl font-black'> Reach Out </h1>
                                                         
-         <span className='font-black'>Do you have a question, a challenge, or maybe a concern? </span>  
+         <p className=' mt-8 font-black'>Do you have a question, a challenge, or maybe a concern? </p>  
          
-         <div className='mt-4'>         
+         <div className=' mt-16'>         
            We are more than happy to have a chat about anything cloud-native.</div>  
 
          <span>  Give us a call, or leave a note, and we’ll get back to you.</span>  
