@@ -5,12 +5,12 @@ const Clients = () => {
     <div>
 
 
-<div className="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
+<div className=" ">
  
-  <div className="sm:w-1/2 xl:w-1/3 mx-auto text-center mb-6">
-    <h2 className="text-xl font-semibold md:text-2xl md:leading-tight text-gray-800 dark:text-gray-200">
+  <div className=" text-center mb-6 mt-24">
+    <h2 className="text-2xl font-black md:text-2xl  ">
         
-        Trusted by the Leading Banking and Financial Institutions, Defense and Enterprises in Bangladesh</h2>
+        Trusted by the Leading Banking, Financial, Defense  Institutions and Enterprises in Bangladesh</h2>
   </div>
 
  
