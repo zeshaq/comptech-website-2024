@@ -37,7 +37,7 @@ const BookSap = () => {
            
         
        
-    <p className='mt-12 text-2xl font-extralight'>   Let's schedule a discovery session with our 
+    <p className='mt-12 text-2xl font-extralight'>   Let&apos;s schedule a discovery session with our 
     SAP technical architects to confirm  landscape, discuss current operating model challenges, 
     and roadmap for existing SAP initiatives. 
     We will help you build a comprehensive cloud migration readiness report that includes:
