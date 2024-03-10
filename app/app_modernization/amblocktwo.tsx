@@ -2,13 +2,13 @@ import React from 'react'
 
 const Amblocktwo = () => {
   return (
-    <div className='p-12'>
+    <div className='p-12 bg-pink-100 '>
 
 <div className="flex flex-row mt-12">
 
   <div className="basis-8/12 p-12  bold">
-    <h1 className="text-6xl font-black">MOVE FAST</h1>
-<p className="pt-12 text-2xl">
+    <h1 className="text-3xl mb-2 font-black">MOVE FAST</h1>
+<p className="">
   Move fast while breaking nothing. Experience a paradigm shift as we redefine your digital assets and ensure your tech infrastructure seamlessly aligns with your evolving business needs.
   </p>
 
@@ -36,8 +36,8 @@ const Amblocktwo = () => {
 
 
   <div className="basis-8/12 p-12  bold">
-    <h1 className="text-6xl font-black">Innovative Overhaul</h1>
-<p className="pt-12 text-2xl">
+    <h1 className="text-3xl mb-2 font-black">Innovative Overhaul</h1>
+<p className=" ">
 Don’t just upgrade. Take charge of a future where your enterprise thrives with advanced capabilities. The era of strategic app modernization is here - are you ready to transform the way your application works?
   </p>
 
@@ -52,8 +52,8 @@ Don’t just upgrade. Take charge of a future where your enterprise thrives with
 <div className="flex flex-row mt-12">
 
   <div className="basis-8/12 p-12  bold">
-    <h1 className="text-6xl font-black">Reinvent Your IT</h1>
-<p className="pt-12 text-2xl">
+    <h1 className="text-3xl mb-2 font-black">Reinvent Your IT</h1>
+<p className="">
 Application Modernization Services consist of revamping or migrating applications to newer platforms to improve functionality, enhance user experience, and enable scalability. Our expert team aims to offer zero-disruption modernization solutions to enterprises of all shapes and sizes. We follow a strategic approach that will help you benefit from the technological transformation at minimal-risk scenarios.
  
   </p>

@@ -12,7 +12,7 @@ const AppModernization = () => {
 
 <div className='p-12'>
 
-  <p className=' text-center font-semibold text-2xl pb-20 pt-20'>
+  <p className=' text-left font-semibold text-2xl pb-20 pt-20'>
   Is your application hindering your business processes due to its aging, redundant, and poor architecture? Obsolete products lead to operational inefficiencies, siloed data, and an inability to adapt to changing market dynamics. This disconnect not only hinders growth but puts your organization at a competitive disadvantage.
  
 
