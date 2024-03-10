@@ -133,14 +133,41 @@ Our pedigree as a provider is always based on infrastructures designed to have z
    </div>
  
 
-<div className="p-12">
-<h1 className="text-3xl font-black">Every component covered</h1>
-<p className="mt-6 mb-6">
+
+<div className="flex flex-row p-12 " >
+    <div className="basis-4/12 relative">
+
+    <Image
+               src="/images/bg/openstack-sm.jpg"
+               alt="aws-sap"
+       
+               fill={true} 
+               object-fit= "contain"
+               
+               >
+            
+ </Image>
+
+
+    </div>
+    <div className="basis-9/12 p-24 bg-cyan-900 text-slate-50">
+
+    <h1 className="text-3xl font-black">Every component covered</h1>
+
+<p className="mt-6 mb-6 ">
 Our design service encompasses all aspects of the compute, storage, networking and control 
 plane components. In other words, all the essential elements that come together in a fully 
 functioning OpenStack – and we do it from the ground up.
 </p>
 
+
+
+    </div>
+
+</div>
+
+
+<div className="p-12">
 <h1 className="text-6xl font-black mt-12">Beyond the physical build and the installation, we make sure your 
 business is up and running with:</h1>
 <div className=" grid grid-cols-3 gap-12 mt-12">
@@ -232,7 +259,7 @@ Our design service encompasses all aspects of the compute, storage, networking a
     <h1 className=" text-2xl font-bold">    Built by multi-disciplinary teams
     </h1>
 
-    <p className="mt-6">Our skilled RedHat OpenStack team tailor support to your needs. So, we’ll provide 
+    <p className="mt-6">Our skilled  OpenStack team tailor support to your needs. So, we’ll provide 
     a detailed equipment bill of materials, plus cable-by-cable physical build instructions and diagrams.
      If you prefer, our team of data centre engineers to rack, stack and perform the complete physical build in
       readiness for the configuration and OpenStack software layers.
