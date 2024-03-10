@@ -11,7 +11,7 @@ const Blockone = () => {
 
     <div className="grid  grid-cols-3 gap-20 ">
 
-        <div className="text-2xl font-extralight">
+        <div className="text-base ">
    
             <p>
                 
@@ -20,7 +20,7 @@ const Blockone = () => {
         </div>
 
 
-        <div className="text-2xl font-extralight">
+        <div className="text-base ">
  
             <p>
             Serving 100+ enterprises including 5+ Fortune 500 organizations in 6 countries across Americas, Europe and Bangladesh for 30+ years
@@ -28,7 +28,7 @@ const Blockone = () => {
         </div>
 
 
-        <div className="text-2xl font-extralight">
+        <div className="text-base ">
  
             <p>
             40+ Security Controls, 25+ Centres of Excellence, 100+ Global Cloud Experts
@@ -36,7 +36,7 @@ const Blockone = () => {
         </div>
 
 
-        <div className="text-2xl font-extralight">
+        <div className="text-base ">
  
             <p> 
 Comprehensive 24x7 cybersecurity monitoring programs
@@ -44,13 +44,13 @@ Comprehensive 24x7 cybersecurity monitoring programs
         </div>
 
 
-        <div className="text-2xl font-extralight">
+        <div className="text-base ">
  
             <p>7 Security frameworks utilizing the MITRE ATT & CK, CIS Critical Security Controls, and more.
             </p>
         </div>
 
-        <div className="text-2xl font-extralight">
+        <div className="text-base ">
  
             <p>Automated solutions for security threats prediction, detection, and response: Advanced Managed Detection and Response Solutions.
                 </p>

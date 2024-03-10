@@ -22,7 +22,7 @@ const HomeBannerCN = () => {
              
              
              
-             src="/images/bn1.jpeg"
+             src="/images/misc/m2.jpeg"
              alt="cloud native banner"
              fill={true }
        

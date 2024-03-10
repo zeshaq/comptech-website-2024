@@ -16,11 +16,11 @@ const CarouselComp = () => {
     flex-nowrap transition-transform duration-700 opacity-0">
 
 
-      <div className="hs-carousel-slide bg-cover"
-       style={{backgroundImage: 'url("/images/carouselbg/1.avif")'}}>
+      <div className="hs-carousel-slide bg-cover bg-right-top  bg-no-repeat"
+       style={{backgroundImage: 'url("/images/bg/bg8.png")'}}>
 
 
-      <div className="text-center py-40 px-4 sm:px-6 lg:px-8">
+      <div className="text-left pt-60 py-40 px-4 sm:px-6 lg:px-8">
           <h1 className="block text-4xl font-black text-white">
             
             CLOUD DRIVEN  
@@ -34,16 +34,7 @@ const CarouselComp = () => {
           Future-proof cloud driven solutions to keep your enterprise 
            ahead of the curve.
             </p>
-          <div className="mt-5 flex flex-col justify-center items-center gap-2 sm:flex-row sm:gap-3">
-            <a className="w-full sm:w-auto py-3 px-4 inline-flex 
-            justify-center items-center gap-x-2 text-sm font-semibold 
-            rounded-lg border border-transparent bg-white text-gray-800
-             hover:bg-gray-200 disabled:opacity-50 disabled:pointer-events-none 
-             dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
-           Explore
-        
-            </a>
-          </div>
+    
         </div>
   
       </div>
