@@ -39,7 +39,12 @@ focused on solving the industry’s most significant infrastructure challenges. 
         <div className="mt-24">
        <h1 className="text-2xl font-extrabold">We are creating opportunities</h1> 
        <p className=" text-left font-extralight text-lg mt-6">
-       As a multidimensional company addressing an extensive market, CompTech is experiencing hypergrowth, rapidly welcoming new customers, and continuing to expand our portfolio of tools. Our products are downloaded more than 100 million times a year, and we’ve expanded from 500 employees in June 2019 to more than 2,000 today — and we’re just getting started. That kind of scale opens up hard-to-find career-growth potential for our people to learn new skills, expand their roles, conquer new challenges, and solve new problems. To make that happen, we are increasingly investing in talent development, manager enablement,
+       As a multidimensional company addressing an extensive market,
+        CompTech is experiencing hypergrowth, 
+        rapidly welcoming new customers, and continuing to expand our portfolio of tools. 
+       That kind of scale opens up hard-to-find career-growth potential for our people to learn new skills, 
+       expand their roles, conquer new challenges, and solve new problems. 
+       To make that happen, we are increasingly investing in talent development, manager enablement,
         knowledge sharing, and other efforts to help our employees advance their careers.
         </p>
 
@@ -63,7 +68,7 @@ focused on solving the industry’s most significant infrastructure challenges. 
         <div className=" mb-12">
             <h2 className=" font-extrabold">FREEDOM</h2>
             <p className=" text-left font-extralight text-lg mt-6">
-            You may start with a certain task at our company, but at Zoi you always have the freedom to learn new things and manifest them in your daily work. We don&apos;t just 
+            You may start with a certain task at our company, but at CompTech you always have the freedom to learn new things and manifest them in your daily work. We don&apos;t just 
             develop code – we give space for development to the people who work with us.
             </p>
         </div>
@@ -72,19 +77,14 @@ focused on solving the industry’s most significant infrastructure challenges. 
         <div className=" mb-12">
             <h2 className=" font-extrabold">ENRICHMENT</h2>
             <p className=" text-left font-extralight text-lg mt-6">
-            With us, you don&apos;t occupy the still-warm chair of your predecessor and aren&apos;t immediately thrown into the to-do jungle. Take your time! You are here to enrich our team. And to establish 
+            With us, you don&apos;t occupy the still-warm chair of your predecessor and aren&apos;t immediately 
+            thrown into the to-do jungle. Take your time! You are here to enrich our team. And to establish 
             yourself in your time. Your leads and colleagues are always only one click away. 
               </p>
         </div>
 
 
-        <div className=" mb-12">
-            <h2 className=" font-extrabold">DIVERSITY</h2>
-            <p className=" text-left font-extralight text-lg mt-6">
-            If you want to work cross-culturally, we are your place to be. With 30 % women in tech, over 30 nationalities, and locations in 6  countries, you&apos;ll enjoy the best of people
-             from everywhere. From Germany to Portugal, Spain, Vietnam, Mexico, and Romania.
-              </p>
-        </div>
+    
 
 
         <div className=" mb-12">
