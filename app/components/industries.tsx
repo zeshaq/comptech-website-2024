@@ -2,7 +2,7 @@ import React from 'react'
 
 const industries = () => {
   return (
-    <div className='p-12'>
+    <div className='p-12  bg-indigo-950 text-slate-50 pt-24 '>
         
 
         <div className='flex flex-row gap-12'>

@@ -5,8 +5,8 @@ const HomeBannerCN = () => {
   return (
     <div className="flex flex-row">
 
-        <div className="basis-4/12  bg-sky-950 text-slate-100">
-            <p className="font-extrabold text-5xl text-center mx-12">
+        <div className="basis-4/12  bg-teal-950 pb-24  text-slate-100">
+            <p className="font-extrabold text-5xl pt-24 text-center mx-12">
               
               WORK WITH CLOUD NATIVES
               

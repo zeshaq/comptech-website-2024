@@ -77,7 +77,7 @@ Get started
               <p className="font-medium text-gray-800 dark:text-gray-200">OpenStack Solutions</p>
               <p className="text-sm text-gray-500 group-hover:text-gray-800 dark:group-hover:text-gray-200">
                 
-                On Prem and Managed Cloud services with world's most popular cloud platform - OpenStack
+                On Prem and Managed Cloud services with world&apos;s most popular cloud platform - OpenStack
                 
                 </p>
             </div>

@@ -8,13 +8,13 @@ const Clients = () => {
 <div className=" ">
  
   <div className=" text-center mb-6 mt-24">
-    <h2 className="text-2xl font-black md:text-2xl  ">
+    <h2 className="text-5xl font-black  p-20 ">
         
-        Trusted by the Leading Banking, Financial, Defense  Institutions and Enterprises in Bangladesh</h2>
+        Trusted by the Government Organizations, Development Sector, Defense and  Leading Institutions in Bangladesh</h2>
   </div>
 
  
-<div className='grid grid-cols-6 p-12 gap-24'>
+<div className='grid grid-cols-6 pt-12 p-32  gap-24'>
  
 
     <div className='relative  h-40 '>
