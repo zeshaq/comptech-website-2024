@@ -23,7 +23,7 @@ Driven by the highest delivery culture and dedicated to local presence we take o
         <div  >
             <div className=" text-cyan-400">
                 <p className="p-6 text-7xl font-extrabold text-center">50+</p>
-                <p className="font-extrabold">CERTIEID ENGINEERS</p>
+                <p className="font-extrabold">CERTIFIEDD ENGINEERS</p>
  
             </div>
         </div>
