@@ -54,7 +54,9 @@ Get started
             <svg className="flex-shrink-0 size-5 mt-1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg>
             <div className="grow">
               <p className="font-medium text-gray-800 dark:text-gray-200">Microservice Consulting</p>
-              <p className="text-sm text-gray-500 group-hover:text-gray-800 dark:group-hover:text-gray-200">Learn how to install, set up, and use Preline.</p>
+              <p className="text-sm text-gray-500 group-hover:text-gray-800 dark:group-hover:text-gray-200">
+                Boost your business agility by migrating from legacy to modern architecture. 
+                </p>
             </div>
           </a>
 
@@ -62,7 +64,10 @@ Get started
             <svg className="flex-shrink-0 size-5 mt-1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-4 8"/></svg>
             <div className="grow">
               <p className="font-medium text-gray-800 dark:text-gray-200">Kubernetes Implementation & Operation</p>
-              <p className="text-sm text-gray-500 group-hover:text-gray-800 dark:group-hover:text-gray-200">Learn how to integrate or build on top of Preline.</p>
+              <p className="text-sm text-gray-500 group-hover:text-gray-800 dark:group-hover:text-gray-200">
+                From Technology selection to implementation and operation. We got you covered. 
+                
+                </p>
             </div>
           </a>
 
@@ -70,7 +75,11 @@ Get started
             <svg className="flex-shrink-0 size-5 mt-1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" ><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
             <div className="grow">
               <p className="font-medium text-gray-800 dark:text-gray-200">OpenStack Solutions</p>
-              <p className="text-sm text-gray-500 group-hover:text-gray-800 dark:group-hover:text-gray-200">Learn, share, and connect with other Preline users.</p>
+              <p className="text-sm text-gray-500 group-hover:text-gray-800 dark:group-hover:text-gray-200">
+                
+                On Prem and Managed Cloud services with world's most popular cloud platform - OpenStack
+                
+                </p>
             </div>
           </a>
         </div>
@@ -78,11 +87,11 @@ Get started
         <div className="flex flex-col pt-4 px-20 ">
       
 
-       <h1 className='font-black text-4xl '>30 Years</h1>
+       <h1 className='font-black text-4xl dark:text-gray-200'>30 Years</h1>
     
             
             <div className="grow">
-              <p className=" text-2xl font-extralight mt-2">
+              <p className=" text-2xl font-extralight mt-2 dark:text-gray-200">
            Of relentless pursuit of perfection. 
               </p>
  
