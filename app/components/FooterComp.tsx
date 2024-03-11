@@ -16,7 +16,8 @@ const FooterComp = () => {
 
 
   <h2 className='font-bold mt-6'>Corporate Office</h2>
-<p>Nassa Heights Level 3,47 Gulshan Avenue Dhaka 1212 Bangladesh</p>
+<p>Nassa Heights Level 3</p>
+  <p>47 Gulshan Avenue Dhaka 1212 Bangladesh</p>
 
 <h2>info@comptech.com.bd</h2>
 
@@ -34,11 +35,11 @@ const FooterComp = () => {
 
 <h2>Pinaki Group</h2>
 29, Gareb-Newaz Avenue
-Sector- 11, Uttara
-Dhaka – 1230
+<p>Sector 11, Uttara </p>
+Dhaka 1230
 
-Phone – +88-02-8931996
-Email : info@pinakigroup.com
+<h2>Phone +88-02-8931996</h2>
+<h2>Email : info@pinakigroup.com</h2>
   </div>
 
 
