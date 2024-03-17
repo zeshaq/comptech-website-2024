@@ -8,6 +8,7 @@ import Blockone from './blockone';
 import Blocktwo from './blocktwo';
 import Blockthree from './blockthree';
 import Blockfour from './blockfour';
+import Devsecimg from './devsecimg';
 
 const CNCFSecurity = () => {
   return (
@@ -32,7 +33,7 @@ assets in the ever-evolving landscape of cloud computing.
  <Blockfour></Blockfour>
 
 
- 
+<Devsecimg></Devsecimg> 
 
 
 

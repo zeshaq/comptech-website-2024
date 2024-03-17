@@ -113,7 +113,7 @@ We provide end-to-end solutions of any complexity.
 
 </h1>
 <p className="text-2xl font-extralight" >
-Alpacked provides a professional advisory services to assess IT systems, roadmap a strategy to
+CompTech provides a professional advisory services to assess IT systems, roadmap a strategy to
  switch towards microservices, PoC and feasibility study.
 </p>
     </div>
