@@ -12,21 +12,25 @@ export default function NeuvectorPage() {
     return (
  <div>
  
- <Nvheader></Nvheader>
+ <NVBanner></NVBanner>
 
 <Nvkeyfeatures></Nvkeyfeatures>
 
 
-<div className='relative min-h-screen '>
-  a
-<Image
-              src="/images/suse/nvarch.png"
-              alt="aws-sap"
-      
-              fill={true} 
-              
-              >
-      </Image>
+<div className='relative    p-20  '>
+ 
+
+
+      <Image  
+        src="/images/suse/nvarch.png"
+        alt="Image Description"
+       
+        objectPosition="center"
+        width={2500}
+      height={1500}
+
+        >
+          </Image>
       </div>
 
 <Neuvector></Neuvector>
