@@ -1,14 +1,14 @@
 apiVersion: argoproj.io/v1alpha1
 kind: AppProject
 metadata:
-  name: sample-project
+  name: comptech-website-2024
   namespace: argocd
 spec:
   clusterResourceWhitelist:
   - group: '*'
     kind: '*'
   destinations:
-  - namespace: sample-app
+  - namespace: comptech-website-2024
     server: https://kubernetes.default.svc
   orphanedResources:
     warn: false
