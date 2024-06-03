@@ -125,18 +125,7 @@ Technical Affiliations
     </div>
 
 
-    <div className='relative  h-40 '>
-    <Image
-               src="/images/logos/sap.png"
-               alt="aws-sap"
-       
-               layout="fill"
-               objectFit="contain"
-               >
-            
- </Image>
-    </div>
-
+ 
 
     <div className='relative  h-40 '>
     <Image
