@@ -8,7 +8,7 @@ export default function Kubernetes() {
 
     <AboutBanner></AboutBanner>
 
-<div className="grid grid-cols-3 gap-5 p-12 m-12 ">
+<div className="grid  sm:grid-cols-2 lg:grid-cols-3 gap-5 p-12 m-12 ">
 
 <div className="p-6 text-center">
 <h1 className=" text-6xl font-black ">70%</h1> 
@@ -47,7 +47,7 @@ Adding to the existing portfolio of CompTech, new divisions have been added whic
  
 
 
- <div className="flex flex-row gap-4  text-slate-50 p-12 bg-cyan-950">
+ <div className="flex flex-col lg:flex-row gap-4  text-slate-50 p-12 bg-cyan-950">
             <div className="basis-5/12">
              <h1 className="text-6xl font-black">Our Vision</h1>
             </div>
@@ -60,7 +60,7 @@ Adding to the existing portfolio of CompTech, new divisions have been added whic
 
 
 
-                <div className=" bg-teal-900 text-slate-50 flex flex-row gap-4 p-12">
+                <div className=" bg-teal-900 text-slate-50 flex flex-col lg:flex-row gap-4 p-12">
 
 
                             <div className="text-left basis-7/12   text-2xl font-extralight">
@@ -75,7 +75,7 @@ Adding to the existing portfolio of CompTech, new divisions have been added whic
                 </div>
 
 
-<div className="grid grid-cols-2 gap-12 p-12">
+<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2  gap-12 p-12">
     <div>
         <h1 className="text-2xl font-black">Create Customer Value</h1>
         <p className="text-2xl font-extralight ">

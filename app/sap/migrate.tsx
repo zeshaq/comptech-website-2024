@@ -5,13 +5,13 @@ const  Migrate = () => {
     
 
 <div>
-    <h1 className="text-7xl font-black mt-32 ">Migrate with an Efficient And Fail-Proof Approach</h1>
+    <h1 className="text-6xl font-black mt-32 ">Migrate with an Efficient And Fail-Proof Approach</h1>
 
     <p className="my-12 text-2xl font-black ">
     We turn your ambition to operate in the Cloud into reality with an efficient, fail-proof approach to migrating SAP workloads to AWS. Each phase of our approach moves you one step closer to your goals. 
     </p>
 
-    <div className="flex flex-row gap-12">
+    <div className="flex flex-col lg:flex-row gap-12">
         <div className="basis-2/6">
 
 <h1 className="font-black text-3xl mb-6 ">Assess</h1>

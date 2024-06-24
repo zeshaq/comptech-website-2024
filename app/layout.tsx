@@ -1,21 +1,19 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import "./globals.css";
-import PrelineScript from "./components/PrelineScript";
-import NavMenu from "./components/NavMenu";
 import FooterComp from "./components/FooterComp";
-
-
+import NavMenu from "./components/NavMenu";
+import PrelineScript from "./components/PrelineScript";
+import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "CompTech",
-  description: "35 Years of Execellence ",
+  description: "35 Years of Execellence "
 };
 
 export default function RootLayout({
-  children,
+  children
 }: Readonly<{
   children: React.ReactNode;
 }>) {
@@ -23,19 +21,14 @@ export default function RootLayout({
     <html lang="en">
       
       <body className={inter.className}>
-      <NavMenu></NavMenu>
-   
+        <NavMenu></NavMenu>
+
         {children}
 
-
-        <FooterComp></FooterComp>  
-      
-        </body>
+        <FooterComp></FooterComp>
+      </body>
 
       <PrelineScript />
     </html>
   );
 }
-
-
- 

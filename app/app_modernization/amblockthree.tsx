@@ -22,7 +22,7 @@ enhanced security, improved speed and performance, and a better all-around app e
 
 
 
-<div className="grid grid-cols-3 p-12 gap-16">
+<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 p-12 gap-16">
 
     <div className="feature_block">
 

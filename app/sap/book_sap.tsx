@@ -7,7 +7,7 @@ const BookSap = () => {
     <div className="mt-12">
 
 
-    <h1 className='text-7xl font-black block'> Book a SAP to AWS Migration Readiness Assessment</h1>   
+    <h1 className='text-5xl font-black block'> Book a SAP to AWS Migration Readiness Assessment</h1>   
     <h2 className="text-2xl font-black mt-12">Complimentary Service from CompTech, the leading AWS Premier SAP Managed Services Provider</h2>
      
      
@@ -32,7 +32,7 @@ const BookSap = () => {
     
      <div className=" mt-10">
     
-        <h1 className='font-black text-7xl block'>
+        <h1 className='font-black text-5xl block'>
             Engagement: So, how do I get started?</h1>
            
         
@@ -43,7 +43,7 @@ const BookSap = () => {
     We will help you build a comprehensive cloud migration readiness report that includes:
     </p>
     
-    <div className=' grid grid-cols-2 gap-12 mt-12'>
+    <div className=' grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-12 mt-12'>
     <div className='text-2xl font-black'>Results for the Total Cost Ownership (TCO) Model</div>
     <div  className='text-2xl font-black'>Key Recommendations on Cost, Operational Excellence and Innovation</div>
     <div className='font-black text-2xl '>A suggested timeline for migration to AWS and cloud adoption</div>

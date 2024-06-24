@@ -4,7 +4,7 @@ const Amblocktwo = () => {
   return (
     <div className='p-12 bg-pink-100 '>
 
-<div className="flex flex-row mt-12">
+<div className="flex flex-col lg:flex-row mt-12">
 
   <div className="basis-8/12 p-12  bold">
     <h1 className="text-3xl mb-2 font-black">MOVE FAST</h1>

@@ -55,7 +55,7 @@ focused on solving the industry’s most significant infrastructure challenges. 
 
 <h1 className="text-4xl font-black text-left mt-12 mb-12">WE CULTIVATE THESE VALUES TOGETHER</h1>
 
-<div className="grid grid-cols-2 gap-x-16">
+<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-x-16">
 
         <div className=" mb-12">
             <h2 className=" font-extrabold">TRUST</h2>

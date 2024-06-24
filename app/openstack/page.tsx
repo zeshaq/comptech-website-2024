@@ -8,7 +8,7 @@ export default function Kubernetes() {
 
     <OpnBanner></OpnBanner>
 
-<div className="grid grid-cols-3 gap-5 p-12 m-12 ">
+<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 p-12 m-12 ">
 
 <div className="p-6 text-center">
 <h1 className="font-black text-4xl">36</h1>
@@ -61,7 +61,7 @@ Our pedigree as a provider is always based on infrastructures designed to have z
  covers every aspect of cloud infrastructure projects – from design to deployment – throughout
   their lifecycle including:
    </div>
-   <div className="grid grid-cols-2 gap-8 p-12">
+   <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-8 p-12">
     <div className="">
         <h1 className="2xl font-bold ">
             
@@ -134,7 +134,7 @@ Our pedigree as a provider is always based on infrastructures designed to have z
  
 
 
-<div className="flex flex-row p-12 " >
+<div className="flex flex-col lg:flex-row p-12 " >
     <div className="basis-4/12 relative">
 
     <Image
@@ -170,7 +170,7 @@ functioning OpenStack – and we do it from the ground up.
 <div className="p-12">
 <h1 className="text-6xl font-black mt-12">Beyond the physical build and the installation, we make sure your 
 business is up and running with:</h1>
-<div className=" grid grid-cols-3 gap-12 mt-12">
+<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-12 mt-12">
     <div>
    <h1 className="text-xl font-bold"> 
    Software performance assurance for all your web and mobile applications
@@ -235,7 +235,7 @@ For running of all types of cloud infrastructure, our OpenStack deployment team 
  solutions that are tailored to your needs and the specifics of your environment.
 </div>
 
-<div className="flex flex-row p-12 gap-24 ">
+<div className="flex flex-col lg:flex-row p-12 gap-24 ">
 
 
 

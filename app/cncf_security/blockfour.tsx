@@ -12,7 +12,7 @@ const Blockfour = () => {
     Experience a seamless journey from DevOps to DevSecOps and achieve an unparalleled level of enterprise security success
     </p>
 
-    <div className='grid grid-cols-3 gap-20'>
+    <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-20'>
         <div>
             <h1 className='text-base font-bold '>Code Analysis
 

@@ -3,7 +3,7 @@ import Image from 'next/image'
 const Devsecimg = () => {
   return (
 
-    <div className='flex flex-row p-12'>
+    <div className='flex flex-col lg:flex-row p-12'>
 
         <div className='basis-4/12'>
 <h1 className='text-2xl font-black'>

@@ -7,22 +7,22 @@ const ContactForm = () => {
   return (
    
 
- <div className='p-20'>
+ <div className='p-20 '>
 
-    <div className='flex flex-row mt-36 gap-32'>
-        <div className='basis-5/12'>
-           <h1 className='text-6xl font-black'> Reach Out </h1>
+    <div className='flex flex-row mt-36 gap-32 sm:flex-wrap md:flex-nowrap'>
+        <div className='sm:basis-12/12 md:basis-5/12'>
+           <h1 className='text-6xl font-black sm:text-center'> Reach Out </h1>
                                                         
          <p className=' mt-8 font-black'>Do you have a question, a challenge, or maybe a concern? </p>  
          
-         <div className=' mt-16'>         
+         <div className='mt-16'>         
            We are more than happy to have a chat about anything cloud-native.</div>  
 
          <span>  Give us a call, or leave a note, and we’ll get back to you.</span>  
         
         </div>
 
-        <div className='basis-7/12'>
+        <div className='sm:basis-12/12 md:basis-7/12'>
 
             <div className='flex flex-row gap-11'>
 

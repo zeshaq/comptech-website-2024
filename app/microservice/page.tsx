@@ -29,7 +29,7 @@ Learn more how we can help you with your application restructuration and deploym
 
 
   
-   <div className="grid grid-cols-2 gap-8 mt-6 p-12">
+   <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-8 mt-6 p-12">
     <div className="">
         <h1 className="text-3xl font-black mb-6">Robust basement for large applications
 
@@ -89,7 +89,7 @@ Learn more how we can help you with your application restructuration and deploym
 We provide end-to-end solutions of any complexity.
 </p> 
 
-<div className=" grid grid-cols-3 gap-16">
+<div className=" grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-16">
     <div>
     <h1 className="text-3xl font-black mb-6">Microservices integration and migration</h1>
 

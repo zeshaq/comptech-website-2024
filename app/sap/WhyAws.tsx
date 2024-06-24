@@ -4,14 +4,14 @@ const WhyAws = () => {
   return (
     <div className=" ">
 
-<h1 className='text-8xl font-black mt-12 '>Why Migrate SAP to AWS?</h1>
+<h1 className='text-6xl font-black mt-12 '>Why Migrate SAP to AWS?</h1>
 
 <p className="text-2xl font-bold mt-12 ">
 Allow CompTech to unlock fail-proof modernization of enterprise resources on AWS cloud. 
 Drive success through real-time data visibility, high performance operations, uninterrupted security and continuity, and cost-optimized business strategies.
 </p>
 
-<div className="grid grid-cols-3 gap-11 mt-24">
+<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3  gap-11 mt-24">
 
 <div>
     <p className='text-2xl font-extralight'>Leverage AWS global infrastructure built around multiple isolated regions and Availability Zones (AZs) connected through low-latency and high throughput.</p>

@@ -10,7 +10,7 @@ const Blocktwo = () => {
 <p className="my-6 text-2xl font-extralight">Boost organization’s cybersecurity posture with advanced cloud native solutions and services. Click to deploy, manage effectively, streamline updates, and gain advanced threat analytics
 </p>
 
-<div className='grid grid-cols-3 gap-20'>
+<div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-20'>
     <div className='font-bold'>
     
     DevSecOps leveraging cloud-native tools
