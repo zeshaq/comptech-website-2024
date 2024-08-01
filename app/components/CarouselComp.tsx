@@ -69,7 +69,7 @@ const CarouselComp = () => {
                 SIMPLIFIED
               </h1>
               <p className="mt-3 text-lg text-gray-300">
-                We're your trusted partner backed by certified expertise. We
+                We are your trusted partner backed by certified expertise. We
                 empower our clients in developing and growing their cloud
                 strategy.
               </p>
