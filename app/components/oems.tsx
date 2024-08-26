@@ -187,22 +187,22 @@ const Oems = () => {
               objectFit="contain"
             ></Image>
           </div>
-          <div className="relative  h-40 ">
+          {/* <div className="relative  h-40 ">
             <Image
               src="/images/logos/redhat.jpeg"
               alt="aws-sap"
               layout="fill"
               objectFit="contain"
             ></Image>
-          </div>
-          <div className="relative  h-40 ">
+          </div> */}
+          {/* <div className="relative  h-40 ">
             <Image
               src="/images/logos/ibm.jpeg"
               alt="aws-sap"
               layout="fill"
               objectFit="contain"
             ></Image>
-          </div>
+          </div> */}
           <div className="relative  h-40 ">
             <Image
               src="/images/logos/neuvector.jpeg"
