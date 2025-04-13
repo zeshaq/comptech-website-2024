@@ -9,8 +9,8 @@ const FooterComp = () => {
       <div className="flex flex-col lg:flex-row gap-12 ">
         <div className="basis-3/12">
           <h2 className="font-bold mt-6">Corporate Office</h2>
-          <p>Nassa Heights Level 3</p>
-          <p>47 Gulshan Avenue Dhaka 1212 Bangladesh</p>
+          <p>Richmond Concord Level 7</p>
+          <p>68 Gulshan Avenue Dhaka 1212 Bangladesh</p>
 
           <h2>info@comptech.com.bd</h2>
 
