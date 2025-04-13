@@ -107,54 +107,9 @@ const Oems = () => {
             ></Image>
           </div>
 
-          <div className="relative  h-40 ">
-            <Image
-              src="/images/logos/cisco.jpeg"
-              alt="aws-sap"
-              layout="fill"
-              objectFit="contain"
-            ></Image>
-          </div>
-          <div className="relative  h-40 ">
-            <Image
-              src="/images/logos/juniper.jpeg"
-              alt="aws-sap"
-              layout="fill"
-              objectFit="contain"
-            ></Image>
-          </div>
-          <div className="relative  h-40 ">
-            <Image
-              src="/images/logos/arista.jpeg"
-              alt="aws-sap"
-              layout="fill"
-              objectFit="contain"
-            ></Image>
-          </div>
-          <div className="relative  h-40 ">
-            <Image
-              src="/images/logos/huawe.jpeg"
-              alt="aws-sap"
-              layout="fill"
-              objectFit="contain"
-            ></Image>
-          </div>
-          <div className="relative  h-40 ">
-            <Image
-              src="/images/logos/bdcom.jpeg"
-              alt="aws-sap"
-              layout="fill"
-              objectFit="contain"
-            ></Image>
-          </div>
-          <div className="relative  h-40 ">
-            <Image
-              src="/images/logos/delltech.jpeg"
-              alt="aws-sap"
-              layout="fill"
-              objectFit="contain"
-            ></Image>
-          </div>
+
+
+
           <div className="relative  h-40 ">
             <Image
               src="/images/logos/oracle.jpeg"
@@ -179,38 +134,16 @@ const Oems = () => {
               objectFit="contain"
             ></Image>
           </div>
-          <div className="relative  h-40 ">
-            <Image
-              src="/images/logos/rancher.jpeg"
-              alt="aws-sap"
-              layout="fill"
-              objectFit="contain"
-            ></Image>
-          </div>
-          {/* <div className="relative  h-40 ">
+
+         <div className="relative  h-40 ">
             <Image
               src="/images/logos/redhat.jpeg"
               alt="aws-sap"
               layout="fill"
               objectFit="contain"
             ></Image>
-          </div> */}
-          {/* <div className="relative  h-40 ">
-            <Image
-              src="/images/logos/ibm.jpeg"
-              alt="aws-sap"
-              layout="fill"
-              objectFit="contain"
-            ></Image>
-          </div> */}
-          <div className="relative  h-40 ">
-            <Image
-              src="/images/logos/neuvector.jpeg"
-              alt="aws-sap"
-              layout="fill"
-              objectFit="contain"
-            ></Image>
-          </div>
+          </div> 
+
           <div className="relative  h-35 ">
             <Image
               src="/images/logos/immutable.jpeg"
